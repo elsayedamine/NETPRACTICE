@@ -117,10 +117,11 @@ The **mask** (also called network mask or subnet mask) determines which IP addre
 [back to contents](https://github.com/elsayedamine/NETPRACTICE#contents)
 
 ## Network
+
+And now to connect all of the above mentioned topics.<br>
+In order to have a functioning network, you now need to apply all of the parts talked about earlier.<br>
 <details>
   <summary>show more</summary>
-  And now to connect all of the above mentioned topics.<br>
-  In order to have a functioning network, you now need to apply all of the parts talked about earlier.<br>
   If there should be a working connection in a network, the devices somehow need to be connected, either directly or with the help of routers which are part of both networks.
 
   Now you may ask, how do I know if two devices are part of the same network?<br>
@@ -146,7 +147,7 @@ Here are all the solutions for all 10 Levels.<br>
 ### Level 1
 
 <details>
-  <summary>show</summary>
+  <summary>reveal image</summary>
 
   ![Level 1](https://github.com/elsayedamine/NETPRACTICE/blob/main/my_solutions/screenshots_solutions/Level1.png)<br>
 
@@ -159,7 +160,7 @@ Here are all the solutions for all 10 Levels.<br>
 ### Level 2
 
 <details>
-  <summary>show</summary>
+  <summary>reveal image</summary>
 
   ![Level 2](https://github.com/elsayedamine/NETPRACTICE/blob/main/my_solutions/screenshots_solutions/Level2.png)<br>
 
@@ -172,7 +173,7 @@ Here are all the solutions for all 10 Levels.<br>
 ### Level 3
 
 <details>
-  <summary>show</summary>
+  <summary>reveal image</summary>
 
   ![Level 3](https://github.com/elsayedamine/NETPRACTICE/blob/main/my_solutions/screenshots_solutions/Level3.png)<br>
 
@@ -185,7 +186,7 @@ Here are all the solutions for all 10 Levels.<br>
 ### Level 4
 
 <details>
-  <summary>show</summary>
+  <summary>reveal image</summary>
 
   ![Level 4](https://github.com/elsayedamine/NETPRACTICE/blob/main/my_solutions/screenshots_solutions/Level4.png)<br>
 
@@ -198,7 +199,7 @@ Here are all the solutions for all 10 Levels.<br>
 ### Level 5
 
 <details>
-  <summary>show</summary>
+  <summary>reveal image</summary>
 
   ![Level 5](https://github.com/elsayedamine/NETPRACTICE/blob/main/my_solutions/screenshots_solutions/Level5.png)<br>
 
@@ -211,7 +212,7 @@ Here are all the solutions for all 10 Levels.<br>
 ### Level 6
 
 <details>
-  <summary>show</summary>
+  <summary>reveal image</summary>
 
   ![Level 6](https://github.com/elsayedamine/NETPRACTICE/blob/main/my_solutions/screenshots_solutions/Level6.png)<br>
 
@@ -224,7 +225,7 @@ Here are all the solutions for all 10 Levels.<br>
 ### Level 7
 
 <details>
-  <summary>show</summary>
+  <summary>reveal image</summary>
 
   ![Level 7](https://github.com/elsayedamine/NETPRACTICE/blob/main/my_solutions/screenshots_solutions/Level7.png)<br>
 
@@ -236,7 +237,7 @@ Here are all the solutions for all 10 Levels.<br>
 ### Level 8
 
 <details>
-  <summary>show</summary>
+  <summary>reveal image</summary>
 
   ![Level 8](https://github.com/elsayedamine/NETPRACTICE/blob/main/my_solutions/screenshots_solutions/Level8.png)<br>
 
@@ -248,7 +249,7 @@ Here are all the solutions for all 10 Levels.<br>
 ### Level 9
 
 <details>
-  <summary>show</summary>
+  <summary>reveal image</summary>
 
   ![Level 9](https://github.com/elsayedamine/NETPRACTICE/blob/main/my_solutions/screenshots_solutions/Level9.png)<br>
 
@@ -261,7 +262,7 @@ Here are all the solutions for all 10 Levels.<br>
 ### Level 10
 
 <details>
-  <summary>show</summary>
+  <summary>reveal image</summary>
 
   ![Level 10](https://github.com/elsayedamine/NETPRACTICE/blob/main/my_solutions/screenshots_solutions/Level10.png)<br>
 </details
