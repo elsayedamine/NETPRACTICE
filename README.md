@@ -59,7 +59,7 @@ The **mask** (also called network mask or subnet mask) determines which IP addre
 There are two ways to represent a mask:
 
 - **Dot-decimal notation**: `255.255.255.0`
-- **CIDR (Classless Inter-Domain Routing)**: `/24`
+- **CIDR (Classless Inter-Domain Routing)<br>**: `/24`
 
 The more usable IP addresses you want per subnet, the fewer subnets you can create from a given IP range.  
 This table provides a helpful reference:
@@ -94,7 +94,7 @@ Example for `255.255.255.252`:
 
 A switch will enable you to connect more than two devices to the same network.<br>
 Its only purpose is to distribute packages to its network.<br>
-To see a working example, you can take a look at [Level 3](https://github.com/elsayedamine/NETPRACTICE/blob/main/my_solutions/screenshots_solutions/Level3.png).<br>
+To see a working example, you can take a look at [Level 3](https://github.com/elsayedamine/NETPRACTICE/blob/main/my_solutions/screenshots_solutions/Level3.png)<br>.<br>
 
 ## Routers
 
@@ -132,7 +132,8 @@ Here are all the solutions for all 10 Levels.<br>
 
 <details>
   <summary>show</summary>
-  ![Level 1](https://github.com/elsayedamine/NETPRACTICE/blob/main/my_solutions/screenshots_solutions/Level1.png)
+
+  ![Level 1](https://github.com/elsayedamine/NETPRACTICE/blob/main/my_solutions/screenshots_solutions/Level1.png)<br>
 
   [back to contents](https://github.com/elsayedamine/NETPRACTICE#contents)
 
@@ -144,7 +145,8 @@ Here are all the solutions for all 10 Levels.<br>
 
 <details>
   <summary>show</summary>
-  ![Level 2](https://github.com/elsayedamine/NETPRACTICE/blob/main/my_solutions/screenshots_solutions/Level2.png)
+
+  ![Level 2](https://github.com/elsayedamine/NETPRACTICE/blob/main/my_solutions/screenshots_solutions/Level2.png)<br>
 
   [back to contents](https://github.com/elsayedamine/NETPRACTICE#contents)
 
@@ -156,7 +158,8 @@ Here are all the solutions for all 10 Levels.<br>
 
 <details>
   <summary>show</summary>
-  ![Level 3](https://github.com/elsayedamine/NETPRACTICE/blob/main/my_solutions/screenshots_solutions/Level3.png)
+
+  ![Level 3](https://github.com/elsayedamine/NETPRACTICE/blob/main/my_solutions/screenshots_solutions/Level3.png)<br>
 
   [back to contents](https://github.com/elsayedamine/NETPRACTICE#contents)
 
@@ -168,7 +171,8 @@ Here are all the solutions for all 10 Levels.<br>
 
 <details>
   <summary>show</summary>
-  ![Level 4](https://github.com/elsayedamine/NETPRACTICE/blob/main/my_solutions/screenshots_solutions/Level4.png)
+
+  ![Level 4](https://github.com/elsayedamine/NETPRACTICE/blob/main/my_solutions/screenshots_solutions/Level4.png)<br>
 
   [back to contents](https://github.com/elsayedamine/NETPRACTICE#contents)
 
@@ -180,7 +184,8 @@ Here are all the solutions for all 10 Levels.<br>
 
 <details>
   <summary>show</summary>
-  ![Level 5](https://github.com/elsayedamine/NETPRACTICE/blob/main/my_solutions/screenshots_solutions/Level5.png)
+
+  ![Level 5](https://github.com/elsayedamine/NETPRACTICE/blob/main/my_solutions/screenshots_solutions/Level5.png)<br>
 
   [back to contents](https://github.com/elsayedamine/NETPRACTICE#contents)
 
@@ -192,7 +197,8 @@ Here are all the solutions for all 10 Levels.<br>
 
 <details>
   <summary>show</summary>
-  ![Level 6](https://github.com/elsayedamine/NETPRACTICE/blob/main/my_solutions/screenshots_solutions/Level6.png)
+
+  ![Level 6](https://github.com/elsayedamine/NETPRACTICE/blob/main/my_solutions/screenshots_solutions/Level6.png)<br>
 
   [back to contents](https://github.com/elsayedamine/NETPRACTICE#contents)
 
@@ -204,7 +210,8 @@ Here are all the solutions for all 10 Levels.<br>
 
 <details>
   <summary>show</summary>
-  ![Level 7](https://github.com/elsayedamine/NETPRACTICE/blob/main/my_solutions/screenshots_solutions/Level7.png)
+
+  ![Level 7](https://github.com/elsayedamine/NETPRACTICE/blob/main/my_solutions/screenshots_solutions/Level7.png)<br>
 
   [back to contents](https://github.com/elsayedamine/NETPRACTICE#contents)
 </details>
@@ -215,7 +222,8 @@ Here are all the solutions for all 10 Levels.<br>
 
 <details>
   <summary>show</summary>
-  ![Level 8](https://github.com/elsayedamine/NETPRACTICE/blob/main/my_solutions/screenshots_solutions/Level8.png)
+
+  ![Level 8](https://github.com/elsayedamine/NETPRACTICE/blob/main/my_solutions/screenshots_solutions/Level8.png)<br>
 
   [back to contents](https://github.com/elsayedamine/NETPRACTICE#contents)
 </details>
@@ -226,7 +234,8 @@ Here are all the solutions for all 10 Levels.<br>
 
 <details>
   <summary>show</summary>
-  ![Level 9](https://github.com/elsayedamine/NETPRACTICE/blob/main/my_solutions/screenshots_solutions/Level9.png)
+
+  ![Level 9](https://github.com/elsayedamine/NETPRACTICE/blob/main/my_solutions/screenshots_solutions/Level9.png)<br>
 
 [back to contents](https://github.com/elsayedamine/NETPRACTICE#contents)
 
@@ -238,7 +247,8 @@ Here are all the solutions for all 10 Levels.<br>
 
 <details>
   <summary>show</summary>
-  ![Level 10](https://github.com/elsayedamine/NETPRACTICE/blob/main/my_solutions/screenshots_solutions/Level10.png)
+
+  ![Level 10](https://github.com/elsayedamine/NETPRACTICE/blob/main/my_solutions/screenshots_solutions/Level10.png)<br>
 </details
 
 
