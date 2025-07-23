@@ -5,7 +5,6 @@ I created this tutorial because the original project has flaws—you can solve i
 
 ## Contents
 - [Basics](https://github.com/elsayedamine/NETPRACTICE#basics)
-  - [special IP-ranges](https://github.com/elsayedamine/NETPRACTICE#special-ip-ranges)
   - [Masks](https://github.com/elsayedamine/NETPRACTICE#masks)
   - [Switches](https://github.com/elsayedamine/NETPRACTICE#switches)
   - [Routers](https://github.com/elsayedamine/NETPRACTICE#routers)
@@ -49,25 +48,9 @@ That means only these values are allowed in any mask block:
 - `0`   (`00000000`)
 
 So `255.255.255.0` is valid, while `255.255.128.128` is **not** — it violates the rule.
-
 To send packets between two IP addresses, they must either be part of the same network, or be connected through a router that belongs to both subnets.
 
 [Back to Contents](https://github.com/elsayedamine/NETPRACTICE#contents)
-
-
-## Special IP-ranges
-
-The following special address-ranges are reserved for Private Networks:<br>
-`10.0.0.0 – 10.255.255.255`<br>
-`172.16.0.0 – 172.31.255.255`<br>
-`192.168.0.0 – 192.168.255.255`<br>
-
-The following address-range is reserved for so called loopback addresses:<br>
-`127.0.0.0 – 127.255.255.255`
-
-There is some more special ip-ranges, but for this project, you only need to remember those above.
-
-[back to contents](https://github.com/elsayedamine/NETPRACTICE#contents)
 
 ## Masks
 
@@ -127,7 +110,6 @@ And now to connect all of the above mentioned topics.<br>
 In order to have a functioning network, you now need to apply all of the parts talked about earlier.<br>
 If there should be a working connection in a network, the devices somehow need to be connected, either directly or with the help of routers which are part of both networks.
 
-
 Now you may ask, how do I know if two devices are part of the same network?<br>
 For this you need to combine the IP-address and the mask of the devices in order to get the network-adress, that device is part of.<br>
 By combining I mean, doing a bit-by-bit-AND-opperation.<br>
@@ -138,13 +120,11 @@ MASK: `255.255.255.0` in binary: `11111111.11111111.11111111.00000000`<br>
 Now you just combine the two bit by bit, if both bits are a `1` the corresponding bit of the network-address is `1`, in any other case the corresponding bit is `0`.
 
 By doing that to the mentioned example, you should get the network-address of<br>`11000000.10101000.1100100.00000000` in binary or `192.168.100.0` in dot-decimal.<br>
-If two devices share the same network-address, they are part of the same network and communication is ensured.
-
 [back to contents](https://github.com/elsayedamine/NETPRACTICE#contents)
 
 ## Levels
 
-Here are all the solutions and simple explanations for all 10 Levels.<br>
+Here are all the solutions for all 10 Levels.<br>
 
 ---
 
@@ -152,6 +132,7 @@ Here are all the solutions and simple explanations for all 10 Levels.<br>
 
 <details>
   <summary>show</summary>
+  ![Level 1](https://github.com/elsayedamine/NETPRACTICE/blob/main/my_solutions/screenshots_solutions/Level1.png)
 
   [back to contents](https://github.com/elsayedamine/NETPRACTICE#contents)
 
@@ -163,6 +144,7 @@ Here are all the solutions and simple explanations for all 10 Levels.<br>
 
 <details>
   <summary>show</summary>
+  ![Level 2](https://github.com/elsayedamine/NETPRACTICE/blob/main/my_solutions/screenshots_solutions/Level2.png)
 
   [back to contents](https://github.com/elsayedamine/NETPRACTICE#contents)
 
@@ -174,6 +156,7 @@ Here are all the solutions and simple explanations for all 10 Levels.<br>
 
 <details>
   <summary>show</summary>
+  ![Level 3](https://github.com/elsayedamine/NETPRACTICE/blob/main/my_solutions/screenshots_solutions/Level3.png)
 
   [back to contents](https://github.com/elsayedamine/NETPRACTICE#contents)
 
@@ -185,6 +168,7 @@ Here are all the solutions and simple explanations for all 10 Levels.<br>
 
 <details>
   <summary>show</summary>
+  ![Level 4](https://github.com/elsayedamine/NETPRACTICE/blob/main/my_solutions/screenshots_solutions/Level4.png)
 
   [back to contents](https://github.com/elsayedamine/NETPRACTICE#contents)
 
@@ -196,6 +180,7 @@ Here are all the solutions and simple explanations for all 10 Levels.<br>
 
 <details>
   <summary>show</summary>
+  ![Level 5](https://github.com/elsayedamine/NETPRACTICE/blob/main/my_solutions/screenshots_solutions/Level5.png)
 
   [back to contents](https://github.com/elsayedamine/NETPRACTICE#contents)
 
@@ -207,6 +192,7 @@ Here are all the solutions and simple explanations for all 10 Levels.<br>
 
 <details>
   <summary>show</summary>
+  ![Level 6](https://github.com/elsayedamine/NETPRACTICE/blob/main/my_solutions/screenshots_solutions/Level6.png)
 
   [back to contents](https://github.com/elsayedamine/NETPRACTICE#contents)
 
@@ -218,6 +204,7 @@ Here are all the solutions and simple explanations for all 10 Levels.<br>
 
 <details>
   <summary>show</summary>
+  ![Level 7](https://github.com/elsayedamine/NETPRACTICE/blob/main/my_solutions/screenshots_solutions/Level7.png)
 
   [back to contents](https://github.com/elsayedamine/NETPRACTICE#contents)
 </details>
@@ -228,6 +215,7 @@ Here are all the solutions and simple explanations for all 10 Levels.<br>
 
 <details>
   <summary>show</summary>
+  ![Level 8](https://github.com/elsayedamine/NETPRACTICE/blob/main/my_solutions/screenshots_solutions/Level8.png)
 
   [back to contents](https://github.com/elsayedamine/NETPRACTICE#contents)
 </details>
@@ -238,6 +226,7 @@ Here are all the solutions and simple explanations for all 10 Levels.<br>
 
 <details>
   <summary>show</summary>
+  ![Level 9](https://github.com/elsayedamine/NETPRACTICE/blob/main/my_solutions/screenshots_solutions/Level9.png)
 
 [back to contents](https://github.com/elsayedamine/NETPRACTICE#contents)
 
@@ -249,7 +238,8 @@ Here are all the solutions and simple explanations for all 10 Levels.<br>
 
 <details>
   <summary>show</summary>
-</details>
+  ![Level 10](https://github.com/elsayedamine/NETPRACTICE/blob/main/my_solutions/screenshots_solutions/Level10.png)
+</details
 
 
 [back to contents](https://github.com/elsayedamine/NETPRACTICE#contents)
